@@ -1,4 +1,4 @@
-# KelimeOyunu
+# GmailClone
 Bu proje, Gmail web sitesinin ana sayfasının basit bir klonunu oluşturmayı amaçlamaktadır. 
     
 Kullanılan Diller:
