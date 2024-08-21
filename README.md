@@ -1,5 +1,5 @@
-//en
-# GmailClone
+# English
+## GmailClone
 ***This project provides a simple clone of the main use of the Gmail web plug-in.***
 
 ### Programming Languages ​​I use:
@@ -9,8 +9,8 @@
               - CSS
 > The texts in the program are in Turkish.
 
-//tr
-# GmailClone
+# Türkçe
+## GmailClone
 ***Bu proje, Gmail web sitesinin ana sayfasının basit bir klonunu oluşturmayı amaçlamaktadır.*** 
     
 ### Kullanılan Diller:
